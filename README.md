@@ -1,16 +1,79 @@
-## Hi there 👋
+# 👋 Hi, I'm CharlieWhiskey
 
-<!--
-**CharlieWhiskeySec/CharlieWhiskeySec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Splunk • SIEM Engineering • Detection Engineering • Identity Security
 
-Here are some ideas to get you started:
+Welcome to my cybersecurity engineering portfolio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a U.S. Army SIGINT veteran with a passion for building practical security solutions through hands-on engineering. My current focus is designing and documenting projects centered around Splunk, Active Directory, Windows Security telemetry, and identity security.
+
+Rather than simply earning certifications, my goal is to demonstrate real-world skills through documented projects, detection logic, dashboards, and security investigations.
+
+---
+
+## 🎯 Current Mission
+
+Build an engineering portfolio that demonstrates practical experience in:
+
+* SIEM Engineering
+* Detection Engineering
+* Active Directory Security
+* Identity & Access Management
+* Windows Event Analysis
+* Security Monitoring
+
+---
+
+## 🏅 Certifications
+
+* ✅ CompTIA Security+
+* ✅ Splunk Core Certified User
+
+---
+
+## 🛣️ Current Roadmap
+
+* 🎯 Splunk Core Certified Power User
+* 🎯 Splunk Enterprise Certified Admin
+* 🎯 Microsoft SC-300: Identity and Access Administrator
+* 🚀 Continue expanding this portfolio with real-world engineering projects
+
+---
+
+## 📂 Featured Projects
+
+### 🏢 Active Directory Security Lab
+
+Enterprise Active Directory environment built for authentication monitoring, Windows Security logging, and Splunk integration.
+
+### 🔍 Splunk Detections
+
+Detection engineering projects, SPL searches, dashboards, and security use cases developed in my home lab.
+
+### 🕵️ Security Investigations
+
+Walkthroughs of investigations using Windows event logs, Splunk searches, and structured analysis.
+
+### 🌐 Traffic Analysis
+
+Network traffic analysis exercises and packet investigation projects.
+
+---
+
+## 🛠️ Technologies
+
+* Splunk Enterprise
+* Active Directory
+* Windows Server
+* Windows 10
+* PowerShell
+* VirtualBox
+* Kali Linux
+* Git & GitHub
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/clwoodard/
+
+Thanks for stopping by! Every project in this portfolio is designed to strengthen my engineering skills while documenting practical solutions that can be applied in enterprise security environments.
