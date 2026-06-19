@@ -1,4 +1,6 @@
-<img width="1983" height="793" alt="CWSECbanner" align="center" src="https://github.com/user-attachments/assets/1378826e-124a-4fe7-b317-18f954cd27b0" />
+<p align="center">
+<img src="https://github.com/user-attachments/assets/1378826e-124a-4fe7-b317-18f954cd27b0" />
+</p>
 
 Welcome to my cybersecurity engineering portfolio.
 
