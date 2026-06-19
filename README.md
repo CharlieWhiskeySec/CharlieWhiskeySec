@@ -25,8 +25,22 @@ Build an engineering portfolio that demonstrates practical experience in:
 
 ## 🏅 Certifications
 
+### Security
+
 * ✅ CompTIA Security+
+* ✅ ISC2 Certified in Cybersecurity (CC)
+
+### Splunk
+
 * ✅ Splunk Core Certified User
+* 🎯 Splunk Core Certified Power User
+* 🎯 Splunk Enterprise Certified Admin
+
+### Microsoft
+
+* ✅ Microsoft Azure Fundamentals (AZ-900)
+* ✅ Microsoft Security, Compliance, and Identity Fundamentals (SC-900)
+* 🎯 Microsoft Identity and Access Administrator (SC-300)
 
 ---
 
