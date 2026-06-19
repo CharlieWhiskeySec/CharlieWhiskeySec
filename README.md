@@ -2,7 +2,6 @@
 <img src="https://github.com/user-attachments/assets/1378826e-124a-4fe7-b317-18f954cd27b0" />
 </p>
  <br>
- <br>
 I'm a U.S. Army SIGINT veteran with a passion for building practical security solutions through hands-on engineering. My current focus is designing and documenting projects centered around Splunk, Active Directory, Windows Security telemetry, and identity security.
 
 Rather than simply earning certifications, my goal is to demonstrate real-world skills through documented projects, detection logic, dashboards, and security investigations.
