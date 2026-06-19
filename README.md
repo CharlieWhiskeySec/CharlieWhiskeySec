@@ -1,6 +1,6 @@
 <img width="1983" height="793" alt="CWSECbanner" align="center" src="https://github.com/user-attachments/assets/4628c549-58cc-4d0f-b068-bfe05cadc728" />
 
-
+*
 Welcome to my cybersecurity engineering portfolio.
 
 I'm a U.S. Army SIGINT veteran with a passion for building practical security solutions through hands-on engineering. My current focus is designing and documenting projects centered around Splunk, Active Directory, Windows Security telemetry, and identity security.
