@@ -25,10 +25,10 @@ Build an engineering portfolio that demonstrates practical experience in:
 
 ## 🚀 What's Next
 
-• Splunk Core Certified Power User
-• Splunk Enterprise Certified Admin
-• Microsoft SC-300
-• Expand engineering portfolio with documented Splunk projects
+* 🎯 Splunk Core Certified Power User
+* 🎯 Splunk Enterprise Certified Admin
+* 🎯 Microsoft SC-300: Identity and Access Administrator
+* 🚀 Continue expanding this portfolio with real-world engineering projects
 
 ---
 
