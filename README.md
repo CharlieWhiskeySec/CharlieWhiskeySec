@@ -1,4 +1,4 @@
-# 👋 Hi, I'm CharlieWhiskey
+# CharlieWhiskey
 
 ### Splunk • SIEM Engineering • Detection Engineering • Identity Security
 
