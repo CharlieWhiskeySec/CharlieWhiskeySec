@@ -1,4 +1,4 @@
-# <h1 align="center"> CharlieWhiskey </h1>
+<img width="1983" height="793" alt="CWSECbanner" align="center" src="https://github.com/user-attachments/assets/4628c549-58cc-4d0f-b068-bfe05cadc728" />
 
 ### Splunk • SIEM Engineering • Detection Engineering • Identity Security
 
