@@ -3,7 +3,7 @@
 </p>
  <br>
 I'm a U.S. Army SIGINT veteran building practical security engineering solutions through hands-on projects focused on Splunk, Active Directory, Windows Security telemetry, and identity security.
-
+<br>
 This portfolio documents the projects, investigations, and lessons learned that are shaping my journey toward becoming a Splunk Engineer. Every repository is designed to demonstrate practical engineering skills through real-world scenarios, documented solutions, and continuous improvement.
 
 ---
