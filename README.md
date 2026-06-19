@@ -62,7 +62,7 @@ Enterprise Active Directory environment built for authentication monitoring, Win
 
 ### 🔍 Splunk Detections
 
-Detection engineering projects, SPL searches, dashboards, and security use cases developed in my home lab.
+Detection engineering projects, SPL searches, dashboards, and security use cases developed in my enterprise Active Directory and Splunk environment.
 
 ### 🕵️ Security Investigations
 
