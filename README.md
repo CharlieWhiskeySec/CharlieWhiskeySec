@@ -9,6 +9,12 @@ I'm a U.S. Army SIGINT veteran building practical security engineering solutions
 
 This portfolio documents the projects, investigations, and lessons learned that are shaping my journey as I continue developing as a Splunk Engineer. Every repository is designed to demonstrate practical engineering skills through real-world scenarios, documented solutions, and continuous improvement.
 
+<br>
+
+**Quick Navigation**
+
+[🎯 Current Mission](#-current-mission) • [🚀 What's Next](#-whats-next) • [📜 Certifications](#-certifications) • [📂 Featured Projects](#-featured-projects) • [🛠️ Technologies](#️-technologies) • [📫 Connect With Me](#-connect-with-me)
+
 ---
 
 ## 🎯 Current Mission
