@@ -59,21 +59,25 @@ Build an engineering portfolio that demonstrates practical experience in:
 ### 🏢 Active Directory Security Lab
 
 Enterprise Active Directory environment built for authentication monitoring, Windows Security logging, and Splunk integration.
+<br>
 ➡️ **[View Repository](https://github.com/CharlieWhiskeySec/active-directory-security-lab)**
 
 ### 🔍 Splunk Detections
 
 Detection engineering projects, SPL searches, dashboards, and security use cases developed in my enterprise Active Directory and Splunk environment.
+<br>
 ➡️ **[View Repository](https://github.com/CharlieWhiskeySec/splunk-detections)**
 
 ### 🕵️ Security Investigations
 
 Walkthroughs of investigations using Windows event logs, Splunk searches, and structured analysis.
+<br>
 ➡️ **[View Repository](https://github.com/CharlieWhiskeySec/soc-investigations)**
 
 ### 🌐 Traffic Analysis
 
 Network traffic analysis exercises and packet investigation projects.
+<br>
 ➡️ **[View Repository](https://github.com/CharlieWhiskeySec/traffic-analysis)**
 
 ---
