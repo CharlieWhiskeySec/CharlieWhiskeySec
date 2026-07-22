@@ -58,8 +58,6 @@ Packet analysis, network investigations, and protocol analysis.
 
 ## 🛠️ Technologies
 
-## 💻 Technologies
-
 **Operating Systems**
 - Windows Server
 - Windows 11
