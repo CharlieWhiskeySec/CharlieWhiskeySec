@@ -1,8 +1,9 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/1378826e-124a-4fe7-b317-18f954cd27b0" />
 </p>
- <br>
-I'm a U.S. Army SIGINT veteran building practical security engineering solutions through hands-on projects focused on Splunk, Active Directory, Windows Security telemetry, and identity security.
+<br>
+U.S. Army SIGINT Veteran | Security+ | Splunk Certified User
+Building practical security engineering experience through enterprise-scale labs focused on SIEM, identity, detection engineering, and incident response.
 
 <br>
 <br>
