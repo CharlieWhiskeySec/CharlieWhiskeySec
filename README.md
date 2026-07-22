@@ -3,7 +3,7 @@
 </p>
 <br>
 U.S. Army SIGINT Veteran | Security+ | Splunk Certified User
-Building practical security engineering experience through enterprise-scale labs focused on SIEM, identity, detection engineering, and incident response.
+Security Engineer focused on building and documenting realistic enterprise security environments through hands-on projects.
 
 <br>
 <br>
@@ -14,7 +14,7 @@ This portfolio documents the projects, investigations, and lessons learned that 
 
 <div align="center">
 
-[🎯Current Mission](#-current-mission) | [🚀What's Next](#-whats-next) | [📜Certifications](#-certifications) | [📂Featured Projects](#-featured-projects) | [🛠️Technologies](#️-technologies) | [📫Connect](#-connect-with-me)
+[🎯Current Mission](#-current-mission) |  [📂Featured Projects](#-featured-projects) |  [🛠️Technologies](#️-technologies) | [🚀What's Next](#-whats-next) | [📜Certifications](#-certifications) | [📫Connect](#-connect-with-me)
 
 </div>
 
@@ -22,23 +22,76 @@ This portfolio documents the projects, investigations, and lessons learned that 
 
 ## 🎯 Current Mission
 
-Build an engineering portfolio that demonstrates practical experience in:
+I'm building and securing Charlie Whiskey Security Labs, a fictional enterprise designed to simulate real-world security engineering. Every project contributes to a single enterprise ecosystem—from Active Directory and identity to SIEM, detection engineering, and incident response.
 
-* SIEM Engineering
-* Detection Engineering
-* Active Directory Security
-* Identity & Access Management
-* Windows Event Analysis
-* Security Monitoring
+🏢 Enterprise: Charlie Whiskey Security Labs
+
+🔗 Enterprise Documentation
+
+---
+
+## 📂 Featured Projects
+
+🏢 Charlie Whiskey Security Labs ⭐
+
+↓
+
+🖥 Active Directory Security Lab
+
+↓
+
+📊 Splunk Detection Engineering
+
+↓
+
+🔍 SOC Investigations
+
+↓
+
+📚 Engineering Challenges
+
+↓
+
+📖 Windows Event Reference
+
+---
+
+## 🛠️ Technologies
+
+Splunk Enterprise
+Windows Server
+Active Directory
+Windows 11 Enterprise
+Sysmon
+PowerShell
+Git
+GitHub
+VirtualBox
+Kali Linux
 
 ---
 
 ## 🚀 What's Next
 
-* 🎯 Splunk Core Certified Power User
-* 🎯 Splunk Enterprise Certified Admin
-* 🎯 Microsoft SC-300: Identity and Access Administrator
-* 🚀 Continue expanding this portfolio with real-world engineering projects
+Current Roadmap
+
+✔ Active Directory
+✔ Splunk Enterprise
+✔ Detection Engineering
+
+In Progress
+
+• Enterprise Documentation
+• Detection-as-Code
+• Security Architecture
+
+Coming Soon
+
+• Microsoft Entra ID
+• Hybrid Identity
+• Microsoft Defender
+• Microsoft Sentinel
+• Security Automation
 
 ---
 
@@ -60,49 +113,6 @@ Build an engineering portfolio that demonstrates practical experience in:
 * ✅ Microsoft Azure Fundamentals (AZ-900)
 * ✅ Microsoft Security, Compliance, and Identity Fundamentals (SC-900)
 * 🎯 Microsoft Identity and Access Administrator (SC-300)
-
----
-
-## 📂 Featured Projects
-
-### 🏢 Active Directory Security Lab
-
-Enterprise Active Directory environment built for authentication monitoring, Windows Security logging, and Splunk integration.
-<br>
-➡️ **[View Repository](https://github.com/CharlieWhiskeySec/active-directory-security-lab)**
-
-### 🔍 Splunk Detections
-
-Detection engineering projects, SPL searches, dashboards, and security use cases developed in my enterprise Active Directory and Splunk environment.
-<br>
-➡️ **[View Repository](https://github.com/CharlieWhiskeySec/splunk-detections)**
-
-### 🕵️ Security Investigations
-
-Walkthroughs of investigations using Windows event logs, Splunk searches, and structured analysis.
-<br>
-➡️ **[View Repository](https://github.com/CharlieWhiskeySec/soc-investigations)**
-
-### 🌐 Traffic Analysis
-
-Network traffic analysis exercises and packet investigation projects.
-<br>
-➡️ **[View Repository](https://github.com/CharlieWhiskeySec/traffic-analysis)**
-
----
-
-## 🛠️ Technologies
-
-* Splunk Enterprise
-* Active Directory
-* Windows Server
-* Windows 10
-* PowerShell
-* VirtualBox
-* Kali Linux
-* Git & GitHub
-
----
 
 ## 📫 Connect With Me
 
