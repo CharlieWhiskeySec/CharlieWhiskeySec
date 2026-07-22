@@ -13,7 +13,7 @@ This portfolio documents the projects, investigations, and lessons learned that 
 
 <div align="center">
 
-[🎯Current Mission](#-current-mission) |  [📂Featured Projects](#-featured-projects) |  [🛠️Technologies](#️-technologies) | [🚀What's Next](#-whats-next) | [📜Certifications](#-certifications) | [📫Connect](#-connect-with-me)
+[🎯Current Mission](#-current-mission) |  [📂Enterprise Projects](#-featured-projects) |  [🛠️Technologies](#️-technologies) | [🚀Enterprise Roadmap](#-whats-next) | [📜Certifications](#-certifications) | [📫Connect](#-connect-with-me)
 
 </div>
 
@@ -37,51 +37,81 @@ https://github.com/CharlieWhiskeySec/charlie-whiskey-security-labs
 
 ---
 
-## 📂 Featured Projects
+## 🏢 Enterprise Projects
 
-🏢 Charlie Whiskey Security Labs ⭐
-│
-├── Active Directory Security Lab
-├── Splunk Detection Engineering
-├── SOC Investigations
-├── Engineering Challenges
-└── Windows Event Reference
+### 🏢 Charlie Whiskey Security Labs
+Enterprise architecture, documentation, security strategy, and central hub for the entire environment.
+
+### 🖥 Active Directory Security Lab
+Enterprise Active Directory environment with organizational units, RBAC, Group Policy, authentication, and identity administration.
+
+### 📊 Splunk Detection Engineering
+Detection development, SPL queries, dashboards, and Windows security monitoring.
+
+### 🔍 SOC Investigations
+Realistic security investigations, alert triage, and incident analysis.
+
+### 🌐 Traffic Analysis
+Packet analysis, network investigations, and protocol analysis.
 
 ---
 
 ## 🛠️ Technologies
 
-Splunk Enterprise
-Windows Server
-Active Directory
-Windows 11 Enterprise
-Sysmon
-PowerShell
-Git
-GitHub
-VirtualBox
-Kali Linux
+## 💻 Technologies
+
+**Operating Systems**
+- Windows Server
+- Windows 11
+- Ubuntu Server
+- Kali Linux
+
+**Security Platforms**
+- Splunk Enterprise
+- Sysmon
+- Windows Event Logging
+
+**Identity**
+- Active Directory
+
+**Scripting & Automation**
+- PowerShell
+
+**Virtualization & Infrastructure**
+- VirtualBox
+
+**Development & Documentation**
+- Git
+- GitHub
+- Visual Studio Code
 
 ---
 
-## 🚀 What's Next
+## 🚀 Enterprise Roadmap
 
-Current Focus
+### ✅ Current Focus
 
-✅ Enterprise Documentation
-✅ Active Directory
-✅ Splunk Enterprise
-🚧 Detection Engineering
-🚧 Incident Response
+- Expand Active Directory enterprise environment
+- Build additional Splunk detections and dashboards
+- Develop realistic SOC investigations
+- Document enterprise architecture and security standards
 
-Upcoming
+### 🔄 In Progress
 
-• Microsoft Entra ID
-• Microsoft Defender
-• Microsoft Sentinel
-• Identity Governance
-• Security Automation
+- Windows Event Reference
+- Engineering Challenges
+- Enterprise network architecture
+- Security documentation
 
+### 📅 Planned
+
+- Microsoft Entra ID
+- Hybrid Identity
+- Microsoft Defender
+- Microsoft Sentinel
+- Security Automation
+- Purple Team Exercises
+- Threat Hunting
 ---
 
 ## 🏅 Certifications
