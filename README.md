@@ -21,11 +21,18 @@ This portfolio documents the projects, investigations, and lessons learned that 
 
 ## 🎯 Current Mission
 
-🏢 Charlie Whiskey Security Labs
+I'm building and securing **Charlie Whiskey Security Labs (CWSL)**—a fictional enterprise designed to simulate a modern organization's security operations and showcase practical security engineering.
 
-Every project in this portfolio is part of **Charlie Whiskey Security Labs (CWSL)**—a fictional enterprise built to simulate modern security engineering, identity management, SIEM operations, detection engineering, and incident response.
+Every project in this portfolio contributes to the same enterprise environment, demonstrating hands-on experience with:
 
-➡️ **Enterprise Hub:**  
+- SIEM Engineering
+- Detection Engineering
+- Active Directory
+- Identity & Access Management
+- Incident Response
+- Security Architecture
+
+🏢 **Explore the Enterprise:**  
 https://github.com/CharlieWhiskeySec/charlie-whiskey-security-labs
 
 ---
