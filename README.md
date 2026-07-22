@@ -3,8 +3,7 @@
 </p>
 <br>
 U.S. Army SIGINT Veteran | Security+ | Splunk Certified User
-Security Engineer focused on building and documenting realistic enterprise security environments through hands-on projects.
-
+Building realistic enterprise security environments that demonstrate SIEM engineering, Active Directory, identity security, detection engineering, and incident response.
 <br>
 <br>
 
@@ -24,7 +23,7 @@ This portfolio documents the projects, investigations, and lessons learned that 
 
 I'm building and securing Charlie Whiskey Security Labs, a fictional enterprise designed to simulate real-world security engineering. Every project contributes to a single enterprise ecosystem—from Active Directory and identity to SIEM, detection engineering, and incident response.
 
-🏢 Enterprise: Charlie Whiskey Security Labs
+🏢 **Enterprise Hub:** https://github.com/CharlieWhiskeySec/charlie-whiskey-security-labs
 
 🔗 Enterprise Documentation
 
@@ -33,26 +32,12 @@ I'm building and securing Charlie Whiskey Security Labs, a fictional enterprise 
 ## 📂 Featured Projects
 
 🏢 Charlie Whiskey Security Labs ⭐
-
-↓
-
-🖥 Active Directory Security Lab
-
-↓
-
-📊 Splunk Detection Engineering
-
-↓
-
-🔍 SOC Investigations
-
-↓
-
-📚 Engineering Challenges
-
-↓
-
-📖 Windows Event Reference
+│
+├── Active Directory Security Lab
+├── Splunk Detection Engineering
+├── SOC Investigations
+├── Engineering Challenges
+└── Windows Event Reference
 
 ---
 
@@ -73,24 +58,20 @@ Kali Linux
 
 ## 🚀 What's Next
 
-Current Roadmap
+Current Focus
 
-✔ Active Directory
-✔ Splunk Enterprise
-✔ Detection Engineering
+✅ Enterprise Documentation
+✅ Active Directory
+✅ Splunk Enterprise
+🚧 Detection Engineering
+🚧 Incident Response
 
-In Progress
-
-• Enterprise Documentation
-• Detection-as-Code
-• Security Architecture
-
-Coming Soon
+Upcoming
 
 • Microsoft Entra ID
-• Hybrid Identity
 • Microsoft Defender
 • Microsoft Sentinel
+• Identity Governance
 • Security Automation
 
 ---
