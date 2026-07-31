@@ -13,7 +13,7 @@ This portfolio documents the projects, investigations, and lessons learned that 
 
 <div align="center">
 
-[🎯Current Mission](#-current-mission) |  [📂Enterprise Projects](#-featured-projects) |  [🛠️Technologies](#️-technologies) | [🚀Enterprise Roadmap](#-whats-next) | [📜Certifications](#-certifications) | [📫Connect](#-connect-with-me)
+[🎯Current Mission](#-current-mission) |  [📂Enterprise Projects](#-enterprise-projects) |  [🛠️Technologies](#️-technologies) | [🚀Enterprise Roadmap](#-whats-next) | [📜Certifications](#-certifications) | [📫Connect](#-connect-with-me)
 
 </div>
 
