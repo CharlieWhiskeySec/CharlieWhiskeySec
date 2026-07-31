@@ -37,22 +37,19 @@ https://github.com/CharlieWhiskeySec/charlie-whiskey-security-labs
 
 ---
 
-## 🏢 Enterprise Projects
+## CWSL Enterprise Projects
 
-### 🏢 Charlie Whiskey Security Labs
-Enterprise architecture, documentation, security strategy, and central hub for the entire environment.
+This project is part of the **Charlie Whiskey Security Labs (CWSL)** simulated enterprise environment.
 
-### 🖥 Active Directory Security Lab
-Enterprise Active Directory environment with organizational units, RBAC, Group Policy, authentication, and identity administration.
-
-### 📊 Splunk Detection Engineering
-Detection development, SPL queries, dashboards, and Windows security monitoring.
-
-### 🔍 SOC Investigations
-Realistic security investigations, alert triage, and incident analysis.
-
-### 🌐 Traffic Analysis
-Packet analysis, network investigations, and protocol analysis.
+| Repository | Purpose |
+|---|---|
+| 🛡️ [Charlie Whiskey Security Labs](https://github.com/CharlieWhiskeySec/charlie-whiskey-security-labs) | Central enterprise hub, architecture, roadmap, and project documentation |
+| 🖥️ [Active Directory Security Lab](https://github.com/CharlieWhiskeySec/active-directory-security-lab) | Enterprise identity infrastructure, authentication, access control, and Windows security telemetry |
+| 📊 [Splunk Detection Engineering](https://github.com/CharlieWhiskeySec/splunk-detections) | SIEM engineering, SPL development, detection logic, and Windows security monitoring |
+| 🔍 [SOC Investigations](https://github.com/CharlieWhiskeySec/soc-investigations) | Security investigations, alert triage, and incident analysis |
+| 🌐 [Traffic Analysis](https://github.com/CharlieWhiskeySec/traffic-analysis) | Network traffic analysis and packet investigation |
+| 🐧 [Linux Administration](https://github.com/CharlieWhiskeySec/linux-administration) | Linux administration, infrastructure fundamentals, permissions, services, and networking |
+```
 
 ---
 
