@@ -49,7 +49,6 @@ This project is part of the **Charlie Whiskey Security Labs (CWSL)** simulated e
 | 🔍 [SOC Investigations](https://github.com/CharlieWhiskeySec/soc-investigations) | Security investigations, alert triage, and incident analysis |
 | 🌐 [Traffic Analysis](https://github.com/CharlieWhiskeySec/traffic-analysis) | Network traffic analysis and packet investigation |
 | 🐧 [Linux Administration](https://github.com/CharlieWhiskeySec/linux-administration) | Linux administration, infrastructure fundamentals, permissions, services, and networking |
-```
 
 ---
 
