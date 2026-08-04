@@ -13,7 +13,7 @@ This portfolio documents the projects, investigations, and lessons learned that 
 
 <div align="center">
 
-[🎯Current Mission](#-current-mission) |  [📂CWSL Enterprise Projects](#-cwsl-enterprise-projects) |  [🛠️Technologies](#️-technologies) | [🚀Enterprise Roadmap](#-enterprise-roadmap) | [📜Certifications](#-certifications) | [📫Connect](#-connect-with-me)
+[🎯Current Mission](#-current-mission) |  [📂CWSL Enterprise Projects](#cwsl-enterprise-projects) |  [🛠️Technologies](#️-technologies) | [🚀Enterprise Roadmap](#-enterprise-roadmap) | [📜Certifications](#-certifications) | [📫Connect](#-connect-with-me)
 
 </div>
 
