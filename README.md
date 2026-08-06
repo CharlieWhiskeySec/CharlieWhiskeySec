@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/1378826e-124a-4fe7-b317-18f954cd27b0" />
 </p>
-<br>
+
 # 👋 Hi, I'm Chris Woodard (CharlieWhiskey)
 
 **Security Engineer focused on Identity Security, Detection Engineering, and Microsoft technologies.**
