@@ -199,7 +199,7 @@ Each certification must reinforce practical ability in at least one CWSL focus a
 
 The preferred workflow is:
 
-**Build → Validate → Document → Certify**
+> **Build → Validate → Document → Certify**
 
 ➡️ [View the full CWSL Enterprise Roadmap](https://github.com/CharlieWhiskeySec/charlie-whiskey-security-labs/blob/main/roadmap/README.md)
 
