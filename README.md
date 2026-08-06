@@ -108,24 +108,98 @@ This project is part of the **Charlie Whiskey Security Labs (CWSL)** simulated e
 - Threat Hunting
 ---
 
-## 🏅 Certifications
+## Certification Roadmap
 
-### Security
+CWSL serves as the hands-on environment behind my certification path. Each certification phase is tied to practical implementation, validation, and documentation inside the enterprise rather than exam preparation alone.
 
-* ✅ CompTIA Security+
-* ✅ ISC2 Certified in Cybersecurity (CC)
+### Phase 1 — Security Foundations
 
-### Splunk
+**Status: Complete**
 
-* ✅ Splunk Core Certified User
-* 🎯 Splunk Core Certified Power User
-* 🎯 Splunk Enterprise Certified Admin
+- [x] CompTIA Security+
+- [x] Splunk Core Certified User
+- [x] Microsoft Security, Compliance, and Identity Fundamentals (SC-900)
+- [x] Microsoft Azure Fundamentals (AZ-900)
+- [x] ISC2 Certified in Cybersecurity
 
-### Microsoft
+This phase established foundational knowledge across cybersecurity, cloud services, identity, and SIEM operations.
 
-* ✅ Microsoft Azure Fundamentals (AZ-900)
-* ✅ Microsoft Security, Compliance, and Identity Fundamentals (SC-900)
-* 🎯 Microsoft Identity and Access Administrator (SC-300)
+---
+
+### Phase 2 — Identity & Detection Engineering
+
+**Status: In Progress**
+
+- [ ] Splunk Core Certified Power User
+- [ ] Microsoft Identity and Access Administrator (SC-300)
+
+#### Phase Objectives
+
+- Develop intermediate-to-advanced SPL proficiency
+- Build and validate Splunk detections using enterprise telemetry
+- Implement Microsoft Entra identity and access controls
+- Design and test Conditional Access policies
+- Strengthen authentication, RBAC, identity lifecycle, and monitoring
+- Document each implementation as a CWSL enterprise initiative
+
+This phase supports the primary CWSL specialization:
+
+> **Identity-focused detection engineering and threat hunting**
+
+---
+
+### Phase 3 — SIEM Administration & Security Operations
+
+**Status: Planned**
+
+- [ ] Splunk Enterprise Certified Admin
+- [ ] Microsoft Security Operations Analyst (SC-200)
+
+#### Phase Objectives
+
+- Administer and troubleshoot Splunk infrastructure
+- Manage indexes, inputs, applications, users, and distributed components
+- Expand into Microsoft Sentinel and Defender XDR
+- Develop KQL proficiency
+- Build cross-platform detections and investigations
+- Perform structured threat hunting and incident response
+
+---
+
+### Phase 4 — Advanced Security Engineering
+
+**Status: Future**
+
+Potential certifications will be selected based on professional responsibilities and the technologies used by future employers.
+
+Possible directions include:
+
+- Microsoft Cybersecurity Architect (SC-100)
+- Advanced Splunk certifications
+- Okta Professional or Administrator
+- SailPoint identity governance certifications
+- Cloud or platform security certifications
+
+Vendor-specific identity certifications outside the Microsoft ecosystem will be pursued when they directly support an active role or enterprise requirement.
+
+---
+
+### Certification Philosophy
+
+The goal is not to collect certifications.
+
+Each certification must reinforce practical ability in at least one CWSL focus area:
+
+- Identity security
+- Detection engineering
+- SIEM administration
+- Threat hunting
+- Incident investigation
+
+The preferred workflow is:
+
+```text
+Build → Validate → Document → Certify
 
 ## 📫 Connect With Me
 
