@@ -1,55 +1,53 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/1378826e-124a-4fe7-b317-18f954cd27b0" />
+  <img src="https://github.com/user-attachments/assets/1378826e-124a-4fe7-b317-18f954cd27b0">
 </p>
 
 # 👋 Hi, I'm Chris Woodard (CharlieWhiskey)
 
 **Security Engineer focused on Identity Security, Detection Engineering, and Microsoft technologies.**
 
-I'm currently building **Charlie Whiskey Security Labs (CWSL)**—a fictional enterprise environment designed to simulate real-world identity infrastructure, security operations, detection engineering, and enterprise administration.
+I'm building **Charlie Whiskey Security Labs (CWSL)**—a fictional enterprise environment designed to simulate real-world identity infrastructure, security operations, detection engineering, and enterprise administration.
 
-Rather than completing isolated labs, I'm engineering an environment where every project supports a larger enterprise security story.
+Rather than completing isolated labs, I'm engineering an environment where every project contributes to a larger enterprise security story.
 
 ---
 
 ## 🏢 Charlie Whiskey Security Labs
 
-Charlie Whiskey Security Labs is my continuously evolving enterprise security portfolio.
+Charlie Whiskey Security Labs is my continuously evolving security engineering portfolio.
 
-Within CWSL, I design, secure, monitor, and document modern enterprise infrastructure while developing practical experience with technologies used by today's security teams.
+Within CWSL, I design, secure, monitor, and document a modern enterprise while developing hands-on experience with technologies used by today's security teams.
 
 ### Current Areas of Focus
 
 - 🔐 Microsoft Entra ID & Identity Security
 - 📊 Splunk Enterprise & Detection Engineering
-- 🖥️ Windows Server & Active Directory
+- 🖥️ Windows Enterprise Administration
 - 🐧 Linux Administration
 - 🚨 Security Monitoring & Incident Investigation
 - 📖 Enterprise Documentation
 
 ---
 
-# 🗺️ Enterprise Architecture
+## 🗺️ Enterprise Architecture
 
-```text
-                Charlie Whiskey Security Labs
+```mermaid
+flowchart TD
+    A["Charlie Whiskey Security Labs"]
 
-              ┌─────────────────────────────────┐
-              │   Enterprise Hub (CWSL)         │
-              └──────────────┬──────────────────┘
-                             │
-     ┌──────────────┬─────────┼──────────┬──────────────┐
-     │              │         │          │
- Microsoft      Splunk     Windows     Linux
- Entra ID       Enterprise Infrastructure Administration
-     │              │         │          │
-     └──────────────┴─────────┴──────────┘
-                    │
-          Identity & Detection Engineering
+    A --> B["Identity Engineering"]
+    A --> C["Detection Engineering"]
+    A --> D["Infrastructure"]
+
+    B --> E["Microsoft Entra ID"]
+    C --> F["Splunk Enterprise"]
+    D --> G["Windows Enterprise"]
+    D --> H["Linux Administration"]
+```
 
 ---
 
-# 🚀 Featured Repositories
+## 🚀 Featured Repositories
 
 | Repository | Description |
 |------------|-------------|
@@ -57,21 +55,21 @@ Within CWSL, I design, secure, monitor, and document modern enterprise infrastru
 | 🔐 **[Microsoft Entra ID](https://github.com/CharlieWhiskeySec/entra-id)** | Identity administration, Conditional Access, MFA, RBAC, and Microsoft cloud security |
 | 📊 **[Splunk Enterprise](https://github.com/CharlieWhiskeySec/splunk-enterprise)** | Detection engineering, Windows Event Logs, SPL development, and enterprise monitoring |
 | 🐧 **[Linux Administration](https://github.com/CharlieWhiskeySec/linux-administration)** | Linux fundamentals, administration, automation, and enterprise server management |
-| 👁️ **[Whiskey's Watch](https://github.com/CharlieWhiskeySec/whiskeys-watch)** | Cybersecurity news analysis, detection insights, and hands-on lab writeups |
+| 👁️ **[Whiskey's Watch](https://github.com/CharlieWhiskeySec/whiskeys-watch)** | Cybersecurity news, enterprise insights, and hands-on lab writeups |
 
 ---
 
-# 📡 Latest Mission Updates
+## 📡 Latest Mission Updates
 
 - ✅ Built Microsoft Entra ID enterprise tenant
-- ✅ Configured Conditional Access policy lab
+- ✅ Implemented Conditional Access policy lab
+- ✅ Built enterprise Active Directory environment
 - ✅ Publishing weekly Whiskey's Watch SITREPs
-- ✅ Building enterprise detection engineering portfolio
-- 🚧 Expanding identity-focused enterprise environment
+- 🚧 Expanding identity-focused detection engineering portfolio
 
 ---
 
-# 🎯 Career Focus
+## 🎯 Career Focus
 
 I'm currently pursuing opportunities in:
 
@@ -84,22 +82,22 @@ I'm currently pursuing opportunities in:
 
 ---
 
-# 🛠️ Technologies
+## 🛠️ Technologies
 
-### Identity
+### Identity & Access Management
 
 - Microsoft Entra ID
 - Active Directory
 - Conditional Access
-- MFA
-- RBAC
+- Multi-Factor Authentication (MFA)
+- Role-Based Access Control (RBAC)
 
-### Security
+### Security Operations
 
 - Splunk Enterprise
 - Windows Event Logs
 - Detection Engineering
-- Security Operations
+- Security Monitoring
 - Incident Investigation
 
 ### Infrastructure
@@ -114,12 +112,12 @@ I'm currently pursuing opportunities in:
 
 - GitHub
 - Markdown
-- Enterprise Architecture
+- Mermaid
 - Technical Documentation
 
 ---
 
-# 📜 Certifications
+## 📜 Certifications
 
 - ✅ CompTIA Security+
 - ✅ Microsoft SC-900
@@ -130,7 +128,7 @@ I'm currently pursuing opportunities in:
 
 ---
 
-# 🤝 Connect
+## 🤝 Connect
 
 💼 **LinkedIn**  
 https://www.linkedin.com/in/chriswoodardsecurity/
