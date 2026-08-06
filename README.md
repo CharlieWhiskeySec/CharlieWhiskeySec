@@ -53,7 +53,7 @@ flowchart TD
 |------------|-------------|
 | 🏢 **[Charlie Whiskey Security Labs](https://github.com/CharlieWhiskeySec/charlie-whiskey-security-labs)** | Enterprise hub connecting every project within CWSL |
 | 🔐 **[Microsoft Entra ID](https://github.com/CharlieWhiskeySec/entra-id)** | Identity administration, Conditional Access, MFA, RBAC, and Microsoft cloud security |
-| 📊 **[Splunk Enterprise](https://github.com/CharlieWhiskeySec/splunk-enterprise)** | Detection engineering, Windows Event Logs, SPL development, and enterprise monitoring |
+| 📊 **[Splunk Enterprise](https://github.com/CharlieWhiskeySec/splunk-detections)** | Detection engineering, Windows Event Logs, SPL development, and enterprise monitoring |
 | 🐧 **[Linux Administration](https://github.com/CharlieWhiskeySec/linux-administration)** | Linux fundamentals, administration, automation, and enterprise server management |
 | 👁️ **[Whiskey's Watch](https://github.com/CharlieWhiskeySec/whiskeys-watch)** | Cybersecurity news, enterprise insights, and hands-on lab writeups |
 
