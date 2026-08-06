@@ -201,7 +201,7 @@ The preferred workflow is:
 
 **Build → Validate → Document → Certify**
 
-➡️ [View the full CWSL Enterprise Roadmap](charlie-whiskey-security-labs/roadmap/README.md)
+➡️ [View the full CWSL Enterprise Roadmap](https://github.com/CharlieWhiskeySec/charlie-whiskey-security-labs/roadmap/README.md)
 
 ## 📫 Connect With Me
 
