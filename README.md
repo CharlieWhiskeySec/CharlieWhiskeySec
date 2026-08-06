@@ -32,20 +32,20 @@ Within CWSL, I design, secure, monitor, and document modern enterprise infrastru
 # 🗺️ Enterprise Architecture
 
 ```text
-                     Charlie Whiskey Security Labs
+                Charlie Whiskey Security Labs
 
-               ┌────────────────────────────────────┐
-               │      Enterprise Hub (CWSL)         │
-               └──────────────┬─────────────────────┘
-                              │
-      ┌──────────────┬─────────┴───────────┬─────────────┐
-      │              │                     │             │
-   Entra ID      Splunk SIEM      Linux Administration  Whiskey's Watch
-      │              │                     │             │
-      └──────────────┴──────────────┬──────┴─────────────┘
-                                    │
-                        Identity + Detection Engineering
-```
+              ┌─────────────────────────────────┐
+              │   Enterprise Hub (CWSL)         │
+              └──────────────┬──────────────────┘
+                             │
+     ┌──────────────┬─────────┼──────────┬──────────────┐
+     │              │         │          │
+ Microsoft      Splunk     Windows     Linux
+ Entra ID       Enterprise Infrastructure Administration
+     │              │         │          │
+     └──────────────┴─────────┴──────────┘
+                    │
+          Identity & Detection Engineering
 
 ---
 
