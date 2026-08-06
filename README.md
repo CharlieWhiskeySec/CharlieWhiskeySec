@@ -198,10 +198,8 @@ Each certification must reinforce practical ability in at least one CWSL focus a
 
 The preferred workflow is:
 
-```text
-Build → Validate → Document → Certify
+**Build → Validate → Document → Certify**
 
-```markdown
 ➡️ [View the full CWSL Enterprise Roadmap](roadmap/README.md)
 
 ## 📫 Connect With Me
