@@ -131,7 +131,7 @@ I'm currently pursuing opportunities in:
 ## 🤝 Connect
 
 💼 **LinkedIn**  
-https://www.linkedin.com/in/clwoodard/)
+https://www.linkedin.com/in/clwoodard/
 
 💻 **GitHub**  
 https://github.com/CharlieWhiskeySec
